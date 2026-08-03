@@ -1,0 +1,6 @@
+numpy>=1.24
+matplotlib>=3.6
+cryptography>=41
+
+# Optional: real microphone and speaker support.
+sounddevice>=0.4
