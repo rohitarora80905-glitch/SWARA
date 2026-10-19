@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# SWARA runtime state: uploaded clips, lab credentials, launcher settings
+SWARA/runtime/
+# regenerated on every demo.py run
+SWARA/demo_users.json
+# recorded call audio (demo.py --out / client.py --out)
+*.wav
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log

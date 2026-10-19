@@ -1,7 +1,0 @@
-{
-  "web_port": 8001,
-  "relay_port": 9000,
-  "relay_auto": true,
-  "open_browser": true,
-  "autostart": true
-}
