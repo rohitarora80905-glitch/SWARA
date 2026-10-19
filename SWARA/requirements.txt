@@ -1,0 +1,10 @@
+numpy>=1.24
+matplotlib>=3.6
+cryptography>=41
+
+# Web console and REST API (api_server.py).
+fastapi>=0.110
+uvicorn>=0.29
+
+# Optional: real microphone and speaker support.
+sounddevice>=0.4
